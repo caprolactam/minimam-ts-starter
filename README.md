@@ -45,3 +45,9 @@ package.jsonで管理
 | tsx        | tsファイルの実行 |
 | typescript | 型のチェック     |
 | vitest     | テスト           |
+
+## mysqlのたちあげ
+
+```sh
+npm run docker-up
+```
